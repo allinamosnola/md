@@ -7,3 +7,4 @@ graph LR
 A[Célula] --> B[Definición]
 A --> C[Otra cosa]
 A --> D[Más cosas]
+B --> D
