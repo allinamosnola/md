@@ -1,4 +1,5 @@
-# Hoja de Ruta: Desarrollo SIC (2-3 semanas)
+# Roadmap: Desarrollo Qbit - SIC (2-3 semanas)
+> Alonso Manilla | Noviembre, 2024
 
 ## Semana 1: Configuración y Componentes Base
 ### Días 1-2: Setup Inicial
