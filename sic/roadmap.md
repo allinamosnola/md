@@ -6,7 +6,6 @@
 - Configuración de Ant Design y tema personalizado
 - Configuración de ESLint y Prettier
 - Configuración de rutas con React Router
-- Setup de estado global (Redux Toolkit o Context) *
 - Tiempo estimado: 1-2 días
 
 ### Días 3-5: Componentes Core y Layout
@@ -117,7 +116,6 @@
 
 ## Métricas de Éxito
 1. Tiempo de carga < 3 segundos
-2. Cobertura de pruebas > 80%
-3. Responsive en todos los breakpoints principales
-4. Cero errores críticos en pruebas de despliegue a producción
-5. Cumplimiento de todos los requerimientos funcionales
+2. Responsive en todos los breakpoints principales
+3. Cero errores críticos en pruebas de despliegue a producción
+4. Cumplimiento de todos los requerimientos funcionales
